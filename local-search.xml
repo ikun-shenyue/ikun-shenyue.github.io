@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>这是一篇文章</title>
+    <link href="/2023/01/27/%E8%BF%99%E6%98%AF%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <url>/2023/01/27/%E8%BF%99%E6%98%AF%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+    
+    <content type="html"><![CDATA[<h1 id="这是个实验"><a href="#这是个实验" class="headerlink" title="这是个实验"></a>这是个实验</h1><p>我也不知道要写进去写什么</p><p>因为我不知道写什么</p><p><img src="/pic/bei.jpg" alt="alt text"></p><p><a href="www.pixiv.net">pixiv</a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2023/01/27/hello-world/"/>
     <url>/2023/01/27/hello-world/</url>
